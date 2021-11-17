@@ -1,0 +1,9 @@
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\bin\Debug\dontTurnOffMyScreen.exe.config
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\bin\Debug\dontTurnOffMyScreen.exe
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\bin\Debug\dontTurnOffMyScreen.pdb
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.csprojAssemblyReference.cache
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.Form1.resources
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.Properties.Resources.resources
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.csproj.GenerateResource.cache
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.exe
+C:\Users\205370687\source\repos\dontTurnOffMyScreen\dontTurnOffMyScreen\obj\Debug\dontTurnOffMyScreen.pdb
