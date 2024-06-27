@@ -2,7 +2,7 @@
 
 name: Build check
 
-on:
+on: 
   pull_request:
 
 jobs:
